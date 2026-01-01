@@ -27,12 +27,6 @@ Here are the tools I use to build and automate:
 
 ---
 
-### 📊 GitHub Stats
+### 📬 Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atelier-Mx&show_icons=true&theme=tokyonight&hide_border=true" alt="Atelier-Mx GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atelier-Mx&layout=compact&theme=tokyonight&hide_border=true" alt="Atelier-Mx Top Langs" />
-</p>
+Feel free to reach out via GitHub issues or verify my repositories to see my work!
