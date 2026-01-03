@@ -1,4 +1,4 @@
-# Hi there! I'm a Developer & Automation Enthusiast 🚀
+# Hello there! I'm a Developer & Automation Enthusiast 🚀
 
 I focus on backend logic, efficiency, and automating the boring stuff. I love finding the balance between low-level control and high-level scripting.
 
